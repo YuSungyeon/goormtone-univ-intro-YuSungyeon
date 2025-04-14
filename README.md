@@ -4,4 +4,4 @@
 - 관심분야 : 백엔드
 - 블로그 : https://velog.io/@yousung1018
 
-<img src="http://img.shields.io/badge/c-#A8B9CC?style=flat-square&logo=html5&logoColor=#ffffff>
+<img src="http://img.shields.io/badge/c-#A8B9CC?style=flat-square&logo=html5&logoColor=#ffffff">
