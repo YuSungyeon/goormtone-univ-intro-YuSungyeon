@@ -4,7 +4,11 @@
 - 관심분야 : 백엔드
 - 블로그 : https://velog.io/@yousung1018
 
-<h1 align="center">YSY💻</h1>
+<h1 align="center">Yeon_💻</h1>
+
+<p>
+'YooSungyeon', You can call 'Yeon'<br>🎓 Major: Computer Software Engineering<br>💻 Interests: Backend Development
+</p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YuSungyeon&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"/>
 
@@ -17,4 +21,4 @@
 
 <h2>✏️ learning</h2>
 
-<h2>💡 📁 Projects</h2>
+<h2>📁 Projects</h2>
