@@ -1,8 +1,12 @@
 <h1 align="center">Yeon_💻</h1>
 
 <p align="center">
-**'YooSungyeon'**, You can call 'Yeon'<br><br>🎓 **Major**: Computer Software Engineering<br>💻 **Interests**: Backend Development<br>📝 **Blog:** [velog.io/@yousung1018](https://velog.io/@yousung1018)
+  <b>'YooSungyeon'</b>, You can call 'Yeon'<br><br>
+  🎓 <b>Major</b>: Computer Software Engineering<br>
+  💻 <b>Interests</b>: Backend Development<br>
+  📝 <b>Blog:</b> <a href="https://velog.io/@yousung1018">Tech Blog</a>
 </p>
+
 
 ---
 
