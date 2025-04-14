@@ -1,14 +1,8 @@
-# goormtone-univ-YuSungyeon
-- 이름 : 유성연
-- 전공 : 컴퓨터소프트웨어공학과
-- 관심분야 : 백엔드
-- 블로그 : https://velog.io/@yousung1018
-
 <h1 align="center">Yeon_💻</h1>
 
-
-**'YooSungyeon'**, You can call 'Yeon'<br>🎓 **Major**: Computer Software Engineering<br>💻 **Interests**: Backend Development
-📝 **Blog:** [velog.io/@yousung1018](https://velog.io/@yousung1018)
+<p align="center">
+**'YooSungyeon'**, You can call 'Yeon'<br><br>🎓 **Major**: Computer Software Engineering<br>💻 **Interests**: Backend Development<br>📝 **Blog:** [velog.io/@yousung1018](https://velog.io/@yousung1018)
+</p>
 
 ---
 
