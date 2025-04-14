@@ -6,9 +6,11 @@
 
 <h1 align="center">Yeon_💻</h1>
 
-<p>
-'YooSungyeon', You can call 'Yeon'<br>🎓 Major: Computer Software Engineering<br>💻 Interests: Backend Development
-</p>
+
+**'YooSungyeon'**, You can call 'Yeon'<br>🎓 **Major**: Computer Software Engineering<br>💻 **Interests**: Backend Development
+📝 **Blog:** [velog.io/@yousung1018](https://velog.io/@yousung1018)
+
+---
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YuSungyeon&theme=gruvbox_light&hide_border=true&count_private=true&show_icons=false&custom_title=GitHub%20Stats😊"/>
 
