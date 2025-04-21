@@ -1,6 +1,6 @@
 <!-- 상단 캡슐 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=FFFFFF&text=Yeon_💻&fontColor=669DF6&rotate=0&textBg=false" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=699DF9&text=Yeon_💻&fontColor=bAbCbb&rotate=0&textBg=false" />
 </p>
 
 ---
@@ -47,8 +47,7 @@
 <!-- Learning -->
 <h2>✏️ Currently Learning</h2>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="http://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 </p>
 
 ---
@@ -56,6 +55,5 @@
 <!-- Projects -->
 <h2>📁 Projects</h2>
 <ul>
-  <li><b>Project 1</b> – 간단한 설명 (사용 기술: Java, Spring Boot, MySQL 등)</li>
-  <li><b>Project 2</b> – 간단한 설명 (사용 기술: React, Node.js 등)</li>
+  <li><b>Project 1</b>
 </ul>
