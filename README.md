@@ -1,6 +1,6 @@
 <!-- 상단 캡슐 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=7b9acc&text=Yeon_💻&fontColor=FCF6F5&rotate=0&textBg=false" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=7b9acc&text=Yeon_💻&fontColor=FCF6F5&rotate=0&textBg=false" />
 </p>
 
 ---
